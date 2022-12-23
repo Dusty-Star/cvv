@@ -1,0 +1,30 @@
+h1{ color:white;
+  font-size:40px;
+  margin: 0;
+
+  }
+  h2{color:white; font-size:30px;}
+  h3{ color:#5C3D2E ;font-size:30px;}
+  h4{font-size:30px;color:#5C3D2E}
+
+  .front{ border: solid;border-color:#5C3D2E; border-width: medium;}
+
+  .land{ padding-top:20px;
+    background-image:url('backgroundreal.jpg');
+  }
+body{ font-family:Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+       background-color: #FFDD93;
+  margin: 0;
+  text-align: center;
+}
+div{  font-size:30px;}
+
+.top{
+  background-color: #5C3D2E;
+  color:white ;
+height: 150px;
+}
+.middle{
+height: 25px;
+  background-color:#DBCBBD;
+}
